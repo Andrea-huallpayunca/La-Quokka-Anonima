@@ -33,9 +33,10 @@ Añadiendo este nuevo elemento, ahora el prototipo se estructuro también en bas
 
 Teniendo en cuenta el tipo de personaje elegido se planteó que el fondo se acomodaría al estilo del personaje, por lo que se comenzó a diseñar y preparar algunas opciones.
 Las principales fueron las siguientes:
+***
 *imagen de quokka colores enteros*
 *imagen de quokka en degradado*
-
+***
 De estas opciones, se seleccionó la imagen de colores enteros por su animación minimalista restandole complejidad tanto a los colores empleados cómo al uso de la página.
 Luego de ello con ayuda de Freepik, se buscó un fondo adecuado al personaje, que  compartiera similitud de diseño, ya que el color podria ser posteriormente adaptado.
 De esa busqueda se seleccionó lo siguiente.
