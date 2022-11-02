@@ -21,32 +21,52 @@ Esta idea estuvo inspirada en un capítulo de una serie llamada 'La teoría del 
 
 
 ## 2. Diseño de la página
+
+### Estructura básica
 En primera instancia se estructuró los elementos de la página web, formando un prototipo en base a cajas, sin establecer todavía el estilo, los colores, el fondo, tipografía, entre otros. 
 
 *estructura en base a cajas*
 
-Posteriormente se buscó implementar un diseño que reflejara una sensación amistosa y relajada, ya que está orientada a un fin amical; que fuera amigable con el usuario, con pequeñas indicaciones a primera vista sobre lo que se debe hacer, dónde digitar el mensaje, que tipo de clave ingresar, dónde se mostrará el mensaje ya codificado. 
-Para ello se tomó como referencia mostrar un personaje que pudiera representar todo aquello que se quiere manifestar. Amistad, felicidad, confidencialidad, tranquilidad. El personaje seleccionado fue el de la 'quokka', un animal catalogado como ["el animal más feliz del mundo"](https://www.hogarmania.com/mascotas/otras/mas/quokka-marsupial-37428.html) por su carácter amigable y su carita sonriente.
-Añadiendo este nuevo elemento, ahora el prototipo se estructuro también en base a posiciones dentro de la pantalla.
+### Elección de un personaje
 
-*prototipo de baja fidelidad
+Posteriormente se buscó implementar un diseño que reflejara una sensación amistosa y relajada, ya que está orientada a un fin amical; que fuera amigable con el usuario, con pequeñas indicaciones a primera vista sobre lo que se debe hacer, dónde digitar el mensaje, que tipo de clave ingresar, dónde se mostrará el mensaje ya codificado. 
+
+Para ello se tomó como referencia mostrar un personaje que pudiera representar todo aquello que se quiere manifestar. Amistad, felicidad, confidencialidad, tranquilidad. El personaje seleccionado fue el de la 'quokka', un animal catalogado como ["el animal más feliz del mundo"](https://www.hogarmania.com/mascotas/otras/mas/quokka-marsupial-37428.html) por su carácter amigable y su carita sonriente.
+Añadiendo este nuevo elemento, ahora el prototipo se estructuro también en base a posiciones dentro de la pantalla y.
+
+*prototipo de baja fidelidad*
 
 Teniendo en cuenta el tipo de personaje elegido se planteó que el fondo se acomodaría al estilo del personaje, por lo que se comenzó a diseñar y preparar algunas opciones.
 Las principales fueron las siguientes:
 **
 *imagen de quokka colores enteros*
 *imagen de quokka en degradado*
-**
-De estas opciones, se seleccionó la imagen de colores enteros por su animación minimalista restandole complejidad tanto a los colores empleados cómo al uso de la página.
-Luego de ello con ayuda de Freepik, se buscó un fondo adecuado al personaje, que  compartiera similitud de diseño, ya que el color podria ser posteriormente adaptado.
-De esa busqueda se seleccionó lo siguiente.
-*imagen de fondo de freepik*
 
+De estas opciones, se seleccionó la imagen de colores enteros por su animación minimalista restandole complejidad tanto a los colores empleados cómo al uso de la página.
+### Imagen de Fondo y complementos
+Luego de ello con ayuda de [Freepik](https://www.freepik.es/), se buscó un fondo adecuado al personaje, que  compartiera similitud de diseño, ya que el color podria ser posteriormente adaptado.
+De esa busqueda se seleccionó lo siguiente.
+
+*imagen de fondo de freepik*
 ![](https://img.freepik.com/vector-gratis/fondo-plano-selva-tropical_23-2148934761.jpg?w=740&t=st=1667408582~exp=1667409182~hmac=b8ecbafa1c7c0795269cedb91501daf6335cb2e2cb1eac087d816f0d2a55cb73)
 
+Posterior a ello se modificaron algunos colores.
 
+*insertar imagen modificada*
 
+Para que el área dónde estarían los elementos de la clave, se creó la imagen 'globito de texto', que iba a ser parte de su fondo.
 
+*insertar pequeño globito*
+### Tipografía 
+Para la selección de tipografía se hizo uso de [Google Fonts](https://fonts.google.com/), del cúal elegimos lo siguiente:
+* [H1 de la página con Carter One]
+* [Texto de Textareas con ]
+* [Botones con ]
+
+### Prototipo de alta fidelidad
+Finalmente, implementando todas las nuevas características, se espera el siguiente resultado.
+
+*insertar*
 
 ## 3. Principales usuarios
 Principales usuarios del producto.
