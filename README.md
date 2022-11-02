@@ -24,7 +24,7 @@ Esta idea estuvo inspirada en un capítulo de una serie llamada 'La teoría del 
 
 ### Estructura básica
 En primera instancia se estructuró los elementos de la página web, formando un prototipo en base a cajas, sin establecer todavía el estilo, los colores, el fondo, tipografía, entre otros. 
-
+ 
 *estructura en base a cajas*
 
 ### Elección de un personaje
