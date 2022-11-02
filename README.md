@@ -52,13 +52,13 @@ De esa busqueda se seleccionó lo siguiente.
 *imagen de fondo de freepik*
 ![](https://img.freepik.com/vector-gratis/fondo-plano-selva-tropical_23-2148934761.jpg?w=740&t=st=1667408582~exp=1667409182~hmac=b8ecbafa1c7c0795269cedb91501daf6335cb2e2cb1eac087d816f0d2a55cb73)
 
-Para que el área dónde estarían los elementos de la clave, se creó la imagen 'globito de texto', que iba a ser parte de su fondo.
+Para que el área dónde estarían los elementos de la clave se creó la imagen 'globito de texto' y para el título de la página se elaboró una imagen semejante a un letrero de madera.
 
 ### Tipografía 
-Para la selección de tipografía se hizo uso de [Google Fonts](https://fonts.google.com/), del cúal elegimos lo siguiente:
-* [H1 de la página con Carter One]
-* [Texto de Textareas con ]
-* [Botones con ]
+Para la selección de tipografía se hizo uso de [Google Fonts](https://fonts.google.com/), del cúal elegimos los siguientes:
+* [CarterOne Regular]
+* [Ubuntu Regular]
+
 
 ### Prototipo de alta fidelidad
 Finalmente, implementando todas las nuevas características, se espera el siguiente resultado.
