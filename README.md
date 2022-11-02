@@ -3,9 +3,9 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-definición)
-* [2.Diseño de la página](#2-diseño)
+* [2.Diseño de la página](#2-Diseño)
 * [3.Principales usuarios](#3-Principales usuarios)
-* [4.Justificación del proyecto](#4-Justificación del proyecto
+* [4.Justificación del proyecto](#4-Justificación del proyecto)
 
 
 
@@ -26,7 +26,6 @@ El diseño de la página es amigable con el usuario, ya que presenta indicacione
 
 Asimismo, se encuentran indicados donde debe poner el número de espacios y hacia que lado deberían moverse las letras del mensaje.
 
-La idea del proyecto estuvo inspirada en un capítulo de una serie llamada 'La teoría del Big bang' ( [ver video](https://www.youtube.com/watch?v=LdiNUr9NpdI) ), en el cuál personajes centrales de la trama empezaron a tener una discusión, eran 4 amigos, Sheldon, Leonard, Penny y Amy. En medio de la tensa situación, Sheldon y Leonard empezaron a hablar en clave utilizando klingon, un idioma del universo de Star Trek, a sabiendas de que Penny y Amy no lo entendían. Entonces, en contra posición a ello, las chicas empezaron a hablar el 
 
 ## 3. Principales usuarios
 Principales usuarios del producto.
