@@ -26,7 +26,7 @@ En primera instancia se estructuró los elementos de la página web, formando un
 *estructura en base a cajas*
 
 Posteriormente se buscó implementar un diseño que reflejara una sensación amistosa y relajada, ya que está orientada a un fin amical; que fuera amigable con el usuario, con pequeñas indicaciones a primera vista sobre lo que se debe hacer, dónde digitar el mensaje, que tipo de clave ingresar, dónde se mostrará el mensaje ya codificado. 
-Para ello se tomó como referencia mostrar un personaje que pudiera representar todo aquello que se quiere manifestar. Amistad, felicidad, confidencialidad, tranquilidad. El personaje seleccionado fue el de la 'quokka', un animal catalogado como (["el animal más feliz del mundo"] (https://www.hogarmania.com/mascotas/otras/mas/quokka-marsupial-37428.html)) por su carácter amigable y su carita sonriente.
+Para ello se tomó como referencia mostrar un personaje que pudiera representar todo aquello que se quiere manifestar. Amistad, felicidad, confidencialidad, tranquilidad. El personaje seleccionado fue el de la 'quokka', un animal catalogado como ["el animal más feliz del mundo"](https://www.hogarmania.com/mascotas/otras/mas/quokka-marsupial-37428.html) por su carácter amigable y su carita sonriente.
 Añadiendo este nuevo elemento, ahora el prototipo se estructuro también en base a posiciones dentro de la pantalla.
 
 *prototipo de baja fidelidad
