@@ -3,9 +3,9 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-definición)
-* [2.Diseño de la página](#2-Diseño)
-* [3.Principales usuarios](#3-Principales usuarios)
-* [4.Justificación del proyecto](#4-Justificación del proyecto)
+* [2. Diseño de la página](#2-Diseño)
+* [3. Principales usuarios](#3-Principales-usuarios)
+* [4. Justificación del proyecto](#4-Justificación-del-proyecto)
 
 
 
@@ -43,7 +43,7 @@ Los principales usos que el usuario le podría dar a la página son:
 * Poder comunicarse en clave con personas  y amigos.
 
 
-## 5. Finalidad del proyecto
+## 4. Finalidad del proyecto
 Cómo crees que el producto que estás creando está resolviendo sus problemas.
 Finalidad
 Considero que la finalidad del producto está más orientada a la camaradería y a afianzar lo que estos lazos generan, que son la confianza, la seguridad, la tranquilidad, la diversión, entre otros; aspectos que en las relaciones sociales usualmente son fortificados con la comunicación y el lenguaje, teniendo en cuenta que dentro de ellas se encuentra la transmisión de información o emisión de mensajes.
