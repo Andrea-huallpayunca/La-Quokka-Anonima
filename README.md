@@ -63,15 +63,11 @@ Para la selección de tipografía se hizo uso de [Google Fonts](https://fonts.go
 ### Prototipo de alta fidelidad
 Finalmente, implementando todas las nuevas características, se espera el siguiente resultado.
 
-*insertar*
+![](PrototipoAlta.png)
 
 ## 3. Principales usuarios
-Principales usuarios del producto.
 
 La target a la cual se dirige principalmente el empleo de la página web es hacia amigos que busquen utilizar un 'lenguaje' solo para ellos, 'lenguaje' que en si es una especie de mensaje en clave con referencia a los caracteres utilizados, en este caso letras del abecedario. 
-
-
-Objetivos de los usuarios en relación con el producto.
 
 Los principales usos que el usuario le podría dar a la página son:
 
@@ -82,9 +78,8 @@ Los principales usos que el usuario le podría dar a la página son:
 
 
 ## 4. Justificación del proyecto
-Cómo crees que el producto que estás creando está resolviendo sus problemas.
-Finalidad
+
 Considero que la finalidad del producto está más orientada a la camaradería y a afianzar lo que estos lazos generan, que son la confianza, la seguridad, la tranquilidad, la diversión, entre otros; aspectos que en las relaciones sociales usualmente son fortificados con la comunicación y el lenguaje, teniendo en cuenta que dentro de ellas se encuentra la transmisión de información o emisión de mensajes.
 
-En base a lo mencionado, la pág de cifrado 'kkk' se apoya en los pilares de la interrelación de las personas, sobre todo las que comparten vínculos afectivos, brindando su 'granito de arena' para que se siga fortaleciendo el trato entre ellas.
+En base a lo mencionado, la pág de cifrado 'La Quokka Anónima' se apoya en los pilares de la interrelación de las personas, sobre todo las que comparten vínculos afectivos, brindando su 'granito de arena' para que se siga fortaleciendo el trato entre ellas.
 
