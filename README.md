@@ -3,16 +3,25 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-definición)
-* 
+* [2.Diseño de la página](#2-diseño)
+* [3.Principales usuarios](#3-Principales usuarios)
+* [4.Justificación del proyecto](#4-Justificación del proyecto
+
+
+
 ## 1. Resumen del proyecto
 
 El presente proyecto es una página web que permite transformar un mensaje original en otro con letras distintas; para ello utiliza las letras del abecedario excepto la ñ, y un número de espacios que debe moverse dentro de este abecedario tanto para la derecha como para izquierda de su posición inicial.
 
-Podemos visualizar un ejemplo en el prototipo de la página.
+Podemos visualizar un ejemplo básico.*
 
-*agregar boceto*
+En este caso, la temática del proyecto será crear mensajes con una clave que se podrá compartir con amigos y de esta forma hablar en 'un idioma' solo conocido entre quienes conozcan la clave.
+
+Esta idea estuvo inspirada en un capítulo de una serie llamada 'La teoría del Big bang' ( [ver video](https://www.youtube.com/watch?v=LdiNUr9NpdI) ), en el cual en un momento dado los personajes se dividen en dos bandos, cada uno hablando de una forma que solo conocía quien estaba de su lado en ese instante.
+
 
 ## 2. Diseño de la página
+
 El diseño de la página es amigable con el usuario, ya que presenta indicaciones sobre cómo poder cifrar un mensaje desde que se ingresa a la página. Esto se puede apreciar en el texto de fondo ubicado tanto donde se debe digitar el mensaje, como en el cuadro donde aparecerá el mensaje ya modificado.
 
 Asimismo, se encuentran indicados donde debe poner el número de espacios y hacia que lado deberían moverse las letras del mensaje.
