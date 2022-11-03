@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>La quokka anónima</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+
+    <div id="root" class="encabezado">
+      <h1>LA QUOKKA ANÓNIMA</h1>
+    </div>
+
+       <div class="clave">
+         <h3 >Tu clave es    </h3>
+     <input class="numero" type="password" id="desplazar" placeholder="Inserta un número" min="1" />
+     <br>
+       <button id="mostrar" class="mostrar"  >Mostrar</button>
+   </div> 
+     
+    <div  class="botones"  >
+    <button class= "boton1" type="button" id="codificar"> Codificar</button>
+    <br>  
+    <button class="boton2" type="button" id="decodificar"> Decodificar</button>
+    </div>    
+    <!--<img class="globito" src="globito.png"><img class='quokka' src="quokka1.png"> <span class="validity"> </span> .. investigar-->
+  
+    <div  class="mensajes">
+      <fieldset  class="mensaje1">
+   <!--<h2>MENSAJE</h2> / --> 
+             <textarea  class= "texto" type="password" id="mensaje" 
+          placeholder="¿Tienes algún mensaje que quieras poner en clave? 
+          Escríbelo aquí ☺" ></textarea> 
+      </fieldset> 
+  
+      <br>
+    
+      <fieldset  class="mensaje2">
+   <!--<h2>MENSAJE RESULTANTE</h2>--> 
+        <textarea type="text" id="mensajeResultante" placeholder="Este es tu mensaje secreto..."></textarea> 
+      </fieldset>
+    </div> 
+    <!--revisar table en html y la funcion para mostrar el contenido-->
+    
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
